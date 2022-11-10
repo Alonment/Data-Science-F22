@@ -1,0 +1,2 @@
+The data is sourced directly from the 3D printers themselves and is thus untamperable through software/networking alone.
+Regarding the physical printers themselves, only Forge administrators are able to alter the 3D printers in any form or manner.

@@ -1,0 +1,4 @@
+The data is sourced directly from Discord itself. Unless there is a massive change in the Discord application itself or 
+bad actors within a specific Discord server that chooses to delete a server's messages, the data itself is secure and safe
+from external tampering. Although the data in the GitHub repository is downloadable by anybody, Nathan reserves the right
+to alter the data that is displayed in the repository itself as I am the repository's owner.

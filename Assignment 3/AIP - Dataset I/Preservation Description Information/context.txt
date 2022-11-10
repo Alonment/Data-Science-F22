@@ -1,0 +1,5 @@
+In general, the data refers to every single message sent within the "Philippine American League" discord server
+along with corresponding metadata for the user that sent that message.
+
+As far as other collections are concerned, there exist no other OAIS AIPs as of this moment regarding the 
+"PAL" discord server itself.

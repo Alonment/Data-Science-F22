@@ -1,0 +1,4 @@
+Data is sourced directly from the server "Philippine American League" in the Discord application. This data is retrieved
+by means of a Discord Bot that programatically scrapes all of the text channels within the server and generates records
+of messages with any relevent metadata attached to them. Anyone can have custody of this data as it is preserved within a
+public GitHub repository.
