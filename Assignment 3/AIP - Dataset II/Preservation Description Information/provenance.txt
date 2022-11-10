@@ -1,5 +1,0 @@
-Data is sourced directly (by API) from the 3D printers in The Forge at Rensselaer Polytechnic Institute.
-The individual that has custody of this content (via URL) is Bill Ni, an administrator at The Forge.
-Historically, all of the data is retrieved directly from the 3D printers themselves, with anyone
-and everyone having access to this data
-via the url "https://t0tfudyw7g.execute-api.us-east-1.amazonaws.com/main/get-failures?devtest8869235418903039=0".

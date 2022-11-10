@@ -1,6 +1,0 @@
-
-PascalCase will be the naming convention utilized in identifying content information.
-
-Identifiers:
-
-    ForgeFailureData.hdf5: HDF5 file containing Forge 3D printer failure data and all relative metadata.

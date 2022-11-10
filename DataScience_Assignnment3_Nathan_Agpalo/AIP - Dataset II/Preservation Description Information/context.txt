@@ -1,0 +1,5 @@
+In general, the data present in the package relates to any information surrounding 3D printer failure at
+The Forge at Rensselaer Polytechnic Institute.
+
+As far as other collections are concerned, there exist no other OAIS AIPs as of this moment regarding 
+The Forge itself.

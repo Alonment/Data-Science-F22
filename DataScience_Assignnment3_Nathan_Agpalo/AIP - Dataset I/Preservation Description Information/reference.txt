@@ -1,0 +1,6 @@
+
+PascalCase will be the naming convention utilized in identifying content information.
+
+Identifiers:
+
+    DiscordData.hdf5: HDF5 file containing discord message data and all relative metadata.
