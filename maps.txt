@@ -1,0 +1,331 @@
+56272fbce000-56272fc6c000 r-xp 00000000 ca:01 4503                       /usr/sbin/apache2
+56272fe6c000-56272fe6f000 r--p 0009e000 ca:01 4503                       /usr/sbin/apache2
+56272fe6f000-56272fe73000 rw-p 000a1000 ca:01 4503                       /usr/sbin/apache2
+56272fe73000-56272fe76000 rw-p 00000000 00:00 0 
+562730839000-56273089d000 rw-p 00000000 00:00 0                          [heap]
+56273089d000-5627311a8000 rw-p 00000000 00:00 0                          [heap]
+5627311a8000-562731234000 rw-p 00000000 00:00 0                          [heap]
+7f8c3d12e000-7f8c3d135000 r-xp 00000000 ca:01 30429                      /lib/x86_64-linux-gnu/librt-2.27.so
+7f8c3d135000-7f8c3d334000 ---p 00007000 ca:01 30429                      /lib/x86_64-linux-gnu/librt-2.27.so
+7f8c3d334000-7f8c3d335000 r--p 00006000 ca:01 30429                      /lib/x86_64-linux-gnu/librt-2.27.so
+7f8c3d335000-7f8c3d336000 rw-p 00007000 ca:01 30429                      /lib/x86_64-linux-gnu/librt-2.27.so
+7f8c3d336000-7f8c3d371000 r-xp 00000000 ca:01 9624                       /lib/x86_64-linux-gnu/libnss_systemd.so.2
+7f8c3d371000-7f8c3d570000 ---p 0003b000 ca:01 9624                       /lib/x86_64-linux-gnu/libnss_systemd.so.2
+7f8c3d570000-7f8c3d573000 r--p 0003a000 ca:01 9624                       /lib/x86_64-linux-gnu/libnss_systemd.so.2
+7f8c3d573000-7f8c3d574000 rw-p 0003d000 ca:01 9624                       /lib/x86_64-linux-gnu/libnss_systemd.so.2
+7f8c3d574000-7f8c45574000 rw-s 00000000 00:01 21227604                   /dev/zero (deleted)
+7f8c45574000-7f8c45578000 r-xp 00000000 ca:01 380469                     /usr/lib/php/20170718/tokenizer.so
+7f8c45578000-7f8c45777000 ---p 00004000 ca:01 380469                     /usr/lib/php/20170718/tokenizer.so
+7f8c45777000-7f8c45778000 r--p 00003000 ca:01 380469                     /usr/lib/php/20170718/tokenizer.so
+7f8c45778000-7f8c45779000 rw-p 00004000 ca:01 380469                     /usr/lib/php/20170718/tokenizer.so
+7f8c45779000-7f8c4577c000 r-xp 00000000 ca:01 380467                     /usr/lib/php/20170718/sysvshm.so
+7f8c4577c000-7f8c4597b000 ---p 00003000 ca:01 380467                     /usr/lib/php/20170718/sysvshm.so
+7f8c4597b000-7f8c4597c000 r--p 00002000 ca:01 380467                     /usr/lib/php/20170718/sysvshm.so
+7f8c4597c000-7f8c4597d000 rw-p 00003000 ca:01 380467                     /usr/lib/php/20170718/sysvshm.so
+7f8c4597d000-7f8c4597f000 r-xp 00000000 ca:01 380466                     /usr/lib/php/20170718/sysvsem.so
+7f8c4597f000-7f8c45b7e000 ---p 00002000 ca:01 380466                     /usr/lib/php/20170718/sysvsem.so
+7f8c45b7e000-7f8c45b7f000 r--p 00001000 ca:01 380466                     /usr/lib/php/20170718/sysvsem.so
+7f8c45b7f000-7f8c45b80000 rw-p 00002000 ca:01 380466                     /usr/lib/php/20170718/sysvsem.so
+7f8c45b80000-7f8c45b83000 r-xp 00000000 ca:01 380465                     /usr/lib/php/20170718/sysvmsg.so
+7f8c45b83000-7f8c45d83000 ---p 00003000 ca:01 380465                     /usr/lib/php/20170718/sysvmsg.so
+7f8c45d83000-7f8c45d84000 r--p 00003000 ca:01 380465                     /usr/lib/php/20170718/sysvmsg.so
+7f8c45d84000-7f8c45d85000 rw-p 00004000 ca:01 380465                     /usr/lib/php/20170718/sysvmsg.so
+7f8c45d85000-7f8c45d98000 r-xp 00000000 ca:01 380464                     /usr/lib/php/20170718/sockets.so
+7f8c45d98000-7f8c45f98000 ---p 00013000 ca:01 380464                     /usr/lib/php/20170718/sockets.so
+7f8c45f98000-7f8c45f9a000 r--p 00013000 ca:01 380464                     /usr/lib/php/20170718/sockets.so
+7f8c45f9a000-7f8c45f9b000 rw-p 00015000 ca:01 380464                     /usr/lib/php/20170718/sockets.so
+7f8c45f9b000-7f8c45f9d000 r-xp 00000000 ca:01 380463                     /usr/lib/php/20170718/shmop.so
+7f8c45f9d000-7f8c4619d000 ---p 00002000 ca:01 380463                     /usr/lib/php/20170718/shmop.so
+7f8c4619d000-7f8c4619e000 r--p 00002000 ca:01 380463                     /usr/lib/php/20170718/shmop.so
+7f8c4619e000-7f8c4619f000 rw-p 00003000 ca:01 380463                     /usr/lib/php/20170718/shmop.so
+7f8c4619f000-7f8c461c5000 r-xp 00000000 ca:01 22476                      /lib/x86_64-linux-gnu/libtinfo.so.5.9
+7f8c461c5000-7f8c463c4000 ---p 00026000 ca:01 22476                      /lib/x86_64-linux-gnu/libtinfo.so.5.9
+7f8c463c4000-7f8c463c8000 r--p 00025000 ca:01 22476                      /lib/x86_64-linux-gnu/libtinfo.so.5.9
+7f8c463c8000-7f8c463c9000 rw-p 00029000 ca:01 22476                      /lib/x86_64-linux-gnu/libtinfo.so.5.9
+7f8c463c9000-7f8c463fa000 r-xp 00000000 ca:01 6344                       /usr/lib/x86_64-linux-gnu/libedit.so.2.0.56
+7f8c463fa000-7f8c465f9000 ---p 00031000 ca:01 6344                       /usr/lib/x86_64-linux-gnu/libedit.so.2.0.56
+7f8c465f9000-7f8c465fb000 r--p 00030000 ca:01 6344                       /usr/lib/x86_64-linux-gnu/libedit.so.2.0.56
+7f8c465fb000-7f8c465fc000 rw-p 00032000 ca:01 6344                       /usr/lib/x86_64-linux-gnu/libedit.so.2.0.56
+7f8c465fc000-7f8c46600000 rw-p 00000000 00:00 0 
+7f8c46600000-7f8c46606000 r-xp 00000000 ca:01 259492                     /usr/lib/php/20170718/readline.so
+7f8c46606000-7f8c46806000 ---p 00006000 ca:01 259492                     /usr/lib/php/20170718/readline.so
+7f8c46806000-7f8c46807000 r--p 00006000 ca:01 259492                     /usr/lib/php/20170718/readline.so
+7f8c46807000-7f8c46808000 rw-p 00007000 ca:01 259492                     /usr/lib/php/20170718/readline.so
+7f8c46808000-7f8c4680f000 r-xp 00000000 ca:01 380462                     /usr/lib/php/20170718/posix.so
+7f8c4680f000-7f8c46a0f000 ---p 00007000 ca:01 380462                     /usr/lib/php/20170718/posix.so
+7f8c46a0f000-7f8c46a10000 r--p 00007000 ca:01 380462                     /usr/lib/php/20170718/posix.so
+7f8c46a10000-7f8c46a11000 rw-p 00008000 ca:01 380462                     /usr/lib/php/20170718/posix.so
+7f8c46a11000-7f8c46a51000 r-xp 00000000 ca:01 380460                     /usr/lib/php/20170718/phar.so
+7f8c46a51000-7f8c46c50000 ---p 00040000 ca:01 380460                     /usr/lib/php/20170718/phar.so
+7f8c46c50000-7f8c46c52000 r--p 0003f000 ca:01 380460                     /usr/lib/php/20170718/phar.so
+7f8c46c52000-7f8c46c54000 rw-p 00041000 ca:01 380460                     /usr/lib/php/20170718/phar.so
+7f8c46c54000-7f8c46c5e000 r-xp 00000000 ca:01 260328                     /usr/lib/php/20170718/json.so
+7f8c46c5e000-7f8c46e5d000 ---p 0000a000 ca:01 260328                     /usr/lib/php/20170718/json.so
+7f8c46e5d000-7f8c46e5e000 r--p 00009000 ca:01 260328                     /usr/lib/php/20170718/json.so
+7f8c46e5e000-7f8c46e5f000 rw-p 0000a000 ca:01 260328                     /usr/lib/php/20170718/json.so
+7f8c46e5f000-7f8c46e68000 r-xp 00000000 ca:01 380458                     /usr/lib/php/20170718/iconv.so
+7f8c46e68000-7f8c47068000 ---p 00009000 ca:01 380458                     /usr/lib/php/20170718/iconv.so
+7f8c47068000-7f8c47069000 r--p 00009000 ca:01 380458                     /usr/lib/php/20170718/iconv.so
+7f8c47069000-7f8c4706a000 rw-p 0000a000 ca:01 380458                     /usr/lib/php/20170718/iconv.so
+7f8c4706a000-7f8c4706d000 r-xp 00000000 ca:01 380457                     /usr/lib/php/20170718/gettext.so
+7f8c4706d000-7f8c4726c000 ---p 00003000 ca:01 380457                     /usr/lib/php/20170718/gettext.so
+7f8c4726c000-7f8c4726d000 r--p 00002000 ca:01 380457                     /usr/lib/php/20170718/gettext.so
+7f8c4726d000-7f8c4726e000 rw-p 00003000 ca:01 380457                     /usr/lib/php/20170718/gettext.so
+7f8c4726e000-7f8c4727a000 r-xp 00000000 ca:01 380456                     /usr/lib/php/20170718/ftp.so
+7f8c4727a000-7f8c4747a000 ---p 0000c000 ca:01 380456                     /usr/lib/php/20170718/ftp.so
+7f8c4747a000-7f8c4747c000 r--p 0000c000 ca:01 380456                     /usr/lib/php/20170718/ftp.so
+7f8c4747c000-7f8c4747d000 rw-p 0000e000 ca:01 380456                     /usr/lib/php/20170718/ftp.so
+7f8c4747d000-7f8c4794b000 r-xp 00000000 ca:01 380455                     /usr/lib/php/20170718/fileinfo.so
+7f8c4794b000-7f8c47b4b000 ---p 004ce000 ca:01 380455                     /usr/lib/php/20170718/fileinfo.so
+7f8c47b4b000-7f8c47b4c000 r--p 004ce000 ca:01 380455                     /usr/lib/php/20170718/fileinfo.so
+7f8c47b4c000-7f8c47b4d000 rw-p 004cf000 ca:01 380455                     /usr/lib/php/20170718/fileinfo.so
+7f8c47b4d000-7f8c47b5e000 r-xp 00000000 ca:01 359394                     /usr/lib/php/20170718/exif.so
+7f8c47b5e000-7f8c47d5d000 ---p 00011000 ca:01 359394                     /usr/lib/php/20170718/exif.so
+7f8c47d5d000-7f8c47d61000 r--p 00010000 ca:01 359394                     /usr/lib/php/20170718/exif.so
+7f8c47d61000-7f8c47d62000 rw-p 00014000 ca:01 359394                     /usr/lib/php/20170718/exif.so
+7f8c47d62000-7f8c47d65000 r-xp 00000000 ca:01 359263                     /usr/lib/php/20170718/ctype.so
+7f8c47d65000-7f8c47f64000 ---p 00003000 ca:01 359263                     /usr/lib/php/20170718/ctype.so
+7f8c47f64000-7f8c47f65000 r--p 00002000 ca:01 359263                     /usr/lib/php/20170718/ctype.so
+7f8c47f65000-7f8c47f66000 rw-p 00003000 ca:01 359263                     /usr/lib/php/20170718/ctype.so
+7f8c47f66000-7f8c47f6c000 r-xp 00000000 ca:01 359258                     /usr/lib/php/20170718/calendar.so
+7f8c47f6c000-7f8c4816c000 ---p 00006000 ca:01 359258                     /usr/lib/php/20170718/calendar.so
+7f8c4816c000-7f8c4816d000 r--p 00006000 ca:01 359258                     /usr/lib/php/20170718/calendar.so
+7f8c4816d000-7f8c4816e000 rw-p 00007000 ca:01 359258                     /usr/lib/php/20170718/calendar.so
+7f8c4816e000-7f8c48186000 r-xp 00000000 ca:01 380459                     /usr/lib/php/20170718/pdo.so
+7f8c48186000-7f8c48386000 ---p 00018000 ca:01 380459                     /usr/lib/php/20170718/pdo.so
+7f8c48386000-7f8c48389000 r--p 00018000 ca:01 380459                     /usr/lib/php/20170718/pdo.so
+7f8c48389000-7f8c4838a000 rw-p 0001b000 ca:01 380459                     /usr/lib/php/20170718/pdo.so
+7f8c4838a000-7f8c483ef000 r-xp 00000000 ca:01 377047                     /usr/lib/php/20170718/opcache.so
+7f8c483ef000-7f8c485ef000 ---p 00065000 ca:01 377047                     /usr/lib/php/20170718/opcache.so
+7f8c485ef000-7f8c485f6000 r--p 00065000 ca:01 377047                     /usr/lib/php/20170718/opcache.so
+7f8c485f6000-7f8c485f7000 rw-p 0006c000 ca:01 377047                     /usr/lib/php/20170718/opcache.so
+7f8c485f7000-7f8c48800000 rw-p 00000000 00:00 0 
+7f8c48864000-7f8c488e2000 rw-s 00000000 00:01 21227605                   /dev/zero (deleted)
+7f8c488e2000-7f8c488e7000 r-xp 00000000 ca:01 21425                      /lib/x86_64-linux-gnu/libnss_dns-2.27.so
+7f8c488e7000-7f8c48ae7000 ---p 00005000 ca:01 21425                      /lib/x86_64-linux-gnu/libnss_dns-2.27.so
+7f8c48ae7000-7f8c48ae8000 r--p 00005000 ca:01 21425                      /lib/x86_64-linux-gnu/libnss_dns-2.27.so
+7f8c48ae8000-7f8c48ae9000 rw-p 00006000 ca:01 21425                      /lib/x86_64-linux-gnu/libnss_dns-2.27.so
+7f8c48ae9000-7f8c48af4000 r-xp 00000000 ca:01 21445                      /lib/x86_64-linux-gnu/libnss_files-2.27.so
+7f8c48af4000-7f8c48cf3000 ---p 0000b000 ca:01 21445                      /lib/x86_64-linux-gnu/libnss_files-2.27.so
+7f8c48cf3000-7f8c48cf4000 r--p 0000a000 ca:01 21445                      /lib/x86_64-linux-gnu/libnss_files-2.27.so
+7f8c48cf4000-7f8c48cf5000 rw-p 0000b000 ca:01 21445                      /lib/x86_64-linux-gnu/libnss_files-2.27.so
+7f8c48cf5000-7f8c48cfb000 rw-p 00000000 00:00 0 
+7f8c48cfb000-7f8c48d12000 r-xp 00000000 ca:01 21394                      /lib/x86_64-linux-gnu/libnsl-2.27.so
+7f8c48d12000-7f8c48f11000 ---p 00017000 ca:01 21394                      /lib/x86_64-linux-gnu/libnsl-2.27.so
+7f8c48f11000-7f8c48f12000 r--p 00016000 ca:01 21394                      /lib/x86_64-linux-gnu/libnsl-2.27.so
+7f8c48f12000-7f8c48f13000 rw-p 00017000 ca:01 21394                      /lib/x86_64-linux-gnu/libnsl-2.27.so
+7f8c48f13000-7f8c48f15000 rw-p 00000000 00:00 0 
+7f8c48f15000-7f8c48f20000 r-xp 00000000 ca:01 22332                      /lib/x86_64-linux-gnu/libnss_nis-2.27.so
+7f8c48f20000-7f8c4911f000 ---p 0000b000 ca:01 22332                      /lib/x86_64-linux-gnu/libnss_nis-2.27.so
+7f8c4911f000-7f8c49120000 r--p 0000a000 ca:01 22332                      /lib/x86_64-linux-gnu/libnss_nis-2.27.so
+7f8c49120000-7f8c49121000 rw-p 0000b000 ca:01 22332                      /lib/x86_64-linux-gnu/libnss_nis-2.27.so
+7f8c49121000-7f8c49129000 r-xp 00000000 ca:01 21405                      /lib/x86_64-linux-gnu/libnss_compat-2.27.so
+7f8c49129000-7f8c49329000 ---p 00008000 ca:01 21405                      /lib/x86_64-linux-gnu/libnss_compat-2.27.so
+7f8c49329000-7f8c4932a000 r--p 00008000 ca:01 21405                      /lib/x86_64-linux-gnu/libnss_compat-2.27.so
+7f8c4932a000-7f8c4932b000 rw-p 00009000 ca:01 21405                      /lib/x86_64-linux-gnu/libnss_compat-2.27.so
+7f8c4932b000-7f8c49330000 r-xp 00000000 ca:01 279603                     /usr/lib/apache2/modules/mod_status.so
+7f8c49330000-7f8c4952f000 ---p 00005000 ca:01 279603                     /usr/lib/apache2/modules/mod_status.so
+7f8c4952f000-7f8c49530000 r--p 00004000 ca:01 279603                     /usr/lib/apache2/modules/mod_status.so
+7f8c49530000-7f8c49531000 rw-p 00005000 ca:01 279603                     /usr/lib/apache2/modules/mod_status.so
+7f8c49531000-7f8c49567000 r-xp 00000000 ca:01 279602                     /usr/lib/apache2/modules/mod_ssl.so
+7f8c49567000-7f8c49766000 ---p 00036000 ca:01 279602                     /usr/lib/apache2/modules/mod_ssl.so
+7f8c49766000-7f8c49769000 r--p 00035000 ca:01 279602                     /usr/lib/apache2/modules/mod_ssl.so
+7f8c49769000-7f8c4976a000 rw-p 00038000 ca:01 279602                     /usr/lib/apache2/modules/mod_ssl.so
+7f8c4976a000-7f8c4976c000 rw-p 00000000 00:00 0 
+7f8c4976c000-7f8c49771000 r-xp 00000000 ca:01 279600                     /usr/lib/apache2/modules/mod_socache_shmcb.so
+7f8c49771000-7f8c49970000 ---p 00005000 ca:01 279600                     /usr/lib/apache2/modules/mod_socache_shmcb.so
+7f8c49970000-7f8c49971000 r--p 00004000 ca:01 279600                     /usr/lib/apache2/modules/mod_socache_shmcb.so
+7f8c49971000-7f8c49972000 rw-p 00005000 ca:01 279600                     /usr/lib/apache2/modules/mod_socache_shmcb.so
+7f8c49972000-7f8c49975000 r-xp 00000000 ca:01 279595                     /usr/lib/apache2/modules/mod_setenvif.so
+7f8c49975000-7f8c49b74000 ---p 00003000 ca:01 279595                     /usr/lib/apache2/modules/mod_setenvif.so
+7f8c49b74000-7f8c49b75000 r--p 00002000 ca:01 279595                     /usr/lib/apache2/modules/mod_setenvif.so
+7f8c49b75000-7f8c49b76000 rw-p 00003000 ca:01 279595                     /usr/lib/apache2/modules/mod_setenvif.so
+7f8c49b76000-7f8c49b86000 r-xp 00000000 ca:01 279589                     /usr/lib/apache2/modules/mod_rewrite.so
+7f8c49b86000-7f8c49d86000 ---p 00010000 ca:01 279589                     /usr/lib/apache2/modules/mod_rewrite.so
+7f8c49d86000-7f8c49d87000 r--p 00010000 ca:01 279589                     /usr/lib/apache2/modules/mod_rewrite.so
+7f8c49d87000-7f8c49d88000 rw-p 00011000 ca:01 279589                     /usr/lib/apache2/modules/mod_rewrite.so
+7f8c49d88000-7f8c49d8b000 r-xp 00000000 ca:01 279587                     /usr/lib/apache2/modules/mod_reqtimeout.so
+7f8c49d8b000-7f8c49f8a000 ---p 00003000 ca:01 279587                     /usr/lib/apache2/modules/mod_reqtimeout.so
+7f8c49f8a000-7f8c49f8b000 r--p 00002000 ca:01 279587                     /usr/lib/apache2/modules/mod_reqtimeout.so
+7f8c49f8b000-7f8c49f8c000 rw-p 00003000 ca:01 279587                     /usr/lib/apache2/modules/mod_reqtimeout.so
+7f8c49f8c000-7f8c49fa3000 r-xp 00000000 ca:01 4650                       /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f8c49fa3000-7f8c4a1a2000 ---p 00017000 ca:01 4650                       /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f8c4a1a2000-7f8c4a1a3000 r--p 00016000 ca:01 4650                       /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f8c4a1a3000-7f8c4a1a4000 rw-p 00017000 ca:01 4650                       /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f8c4a1a4000-7f8c4a31d000 r-xp 00000000 ca:01 9205                       /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7f8c4a31d000-7f8c4a51d000 ---p 00179000 ca:01 9205                       /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7f8c4a51d000-7f8c4a527000 r--p 00179000 ca:01 9205                       /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7f8c4a527000-7f8c4a529000 rw-p 00183000 ca:01 9205                       /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7f8c4a529000-7f8c4a52d000 rw-p 00000000 00:00 0 
+7f8c4a52d000-7f8c4bed5000 r-xp 00000000 ca:01 15465                      /usr/lib/x86_64-linux-gnu/libicudata.so.60.2
+7f8c4bed5000-7f8c4c0d4000 ---p 019a8000 ca:01 15465                      /usr/lib/x86_64-linux-gnu/libicudata.so.60.2
+7f8c4c0d4000-7f8c4c0d5000 r--p 019a7000 ca:01 15465                      /usr/lib/x86_64-linux-gnu/libicudata.so.60.2
+7f8c4c0d5000-7f8c4c0d6000 rw-p 019a8000 ca:01 15465                      /usr/lib/x86_64-linux-gnu/libicudata.so.60.2
+7f8c4c0d6000-7f8c4c0fa000 r-xp 00000000 ca:01 17271                      /lib/x86_64-linux-gnu/liblzma.so.5.2.2
+7f8c4c0fa000-7f8c4c2fa000 ---p 00024000 ca:01 17271                      /lib/x86_64-linux-gnu/liblzma.so.5.2.2
+7f8c4c2fa000-7f8c4c2fb000 r--p 00024000 ca:01 17271                      /lib/x86_64-linux-gnu/liblzma.so.5.2.2
+7f8c4c2fb000-7f8c4c2fc000 rw-p 00025000 ca:01 17271                      /lib/x86_64-linux-gnu/liblzma.so.5.2.2
+7f8c4c2fc000-7f8c4c4a0000 r-xp 00000000 ca:01 15470                      /usr/lib/x86_64-linux-gnu/libicuuc.so.60.2
+7f8c4c4a0000-7f8c4c69f000 ---p 001a4000 ca:01 15470                      /usr/lib/x86_64-linux-gnu/libicuuc.so.60.2
+7f8c4c69f000-7f8c4c6b2000 r--p 001a3000 ca:01 15470                      /usr/lib/x86_64-linux-gnu/libicuuc.so.60.2
+7f8c4c6b2000-7f8c4c6b3000 rw-p 001b6000 ca:01 15470                      /usr/lib/x86_64-linux-gnu/libicuuc.so.60.2
+7f8c4c6b3000-7f8c4c6b4000 rw-p 00000000 00:00 0 
+7f8c4c6b4000-7f8c4c704000 r-xp 00000000 ca:01 12117                      /usr/lib/x86_64-linux-gnu/libsodium.so.23.1.0
+7f8c4c704000-7f8c4c903000 ---p 00050000 ca:01 12117                      /usr/lib/x86_64-linux-gnu/libsodium.so.23.1.0
+7f8c4c903000-7f8c4c904000 r--p 0004f000 ca:01 12117                      /usr/lib/x86_64-linux-gnu/libsodium.so.23.1.0
+7f8c4c904000-7f8c4c905000 rw-p 00050000 ca:01 12117                      /usr/lib/x86_64-linux-gnu/libsodium.so.23.1.0
+7f8c4c905000-7f8c4cba1000 r-xp 00000000 ca:01 6730                       /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1 (deleted)
+7f8c4cba1000-7f8c4cda0000 ---p 0029c000 ca:01 6730                       /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1 (deleted)
+7f8c4cda0000-7f8c4cdcc000 r--p 0029b000 ca:01 6730                       /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1 (deleted)
+7f8c4cdcc000-7f8c4cdce000 rw-p 002c7000 ca:01 6730                       /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1 (deleted)
+7f8c4cdce000-7f8c4cdd1000 rw-p 00000000 00:00 0 
+7f8c4cdd1000-7f8c4ce52000 r-xp 00000000 ca:01 6878                       /usr/lib/x86_64-linux-gnu/libssl.so.1.1 (deleted)
+7f8c4ce52000-7f8c4d051000 ---p 00081000 ca:01 6878                       /usr/lib/x86_64-linux-gnu/libssl.so.1.1 (deleted)
+7f8c4d051000-7f8c4d05a000 r--p 00080000 ca:01 6878                       /usr/lib/x86_64-linux-gnu/libssl.so.1.1 (deleted)
+7f8c4d05a000-7f8c4d05e000 rw-p 00089000 ca:01 6878                       /usr/lib/x86_64-linux-gnu/libssl.so.1.1 (deleted)
+7f8c4d05e000-7f8c4d214000 r-xp 00000000 ca:01 13096                      /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.4
+7f8c4d214000-7f8c4d414000 ---p 001b6000 ca:01 13096                      /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.4
+7f8c4d414000-7f8c4d41c000 r--p 001b6000 ca:01 13096                      /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.4
+7f8c4d41c000-7f8c4d41e000 rw-p 001be000 ca:01 13096                      /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.4
+7f8c4d41e000-7f8c4d41f000 rw-p 00000000 00:00 0 
+7f8c4d41f000-7f8c4d5bc000 r-xp 00000000 ca:01 21334                      /lib/x86_64-linux-gnu/libm-2.27.so
+7f8c4d5bc000-7f8c4d7bb000 ---p 0019d000 ca:01 21334                      /lib/x86_64-linux-gnu/libm-2.27.so
+7f8c4d7bb000-7f8c4d7bc000 r--p 0019c000 ca:01 21334                      /lib/x86_64-linux-gnu/libm-2.27.so
+7f8c4d7bc000-7f8c4d7bd000 rw-p 0019d000 ca:01 21334                      /lib/x86_64-linux-gnu/libm-2.27.so
+7f8c4d7bd000-7f8c4d7d4000 r-xp 00000000 ca:01 30427                      /lib/x86_64-linux-gnu/libresolv-2.27.so
+7f8c4d7d4000-7f8c4d9d3000 ---p 00017000 ca:01 30427                      /lib/x86_64-linux-gnu/libresolv-2.27.so
+7f8c4d9d3000-7f8c4d9d4000 r--p 00016000 ca:01 30427                      /lib/x86_64-linux-gnu/libresolv-2.27.so
+7f8c4d9d4000-7f8c4d9d5000 rw-p 00017000 ca:01 30427                      /lib/x86_64-linux-gnu/libresolv-2.27.so
+7f8c4d9d5000-7f8c4d9d7000 rw-p 00000000 00:00 0 
+7f8c4d9d7000-7f8c4d9df000 r-xp 00000000 ca:01 6168                       /usr/lib/x86_64-linux-gnu/libargon2.so.0
+7f8c4d9df000-7f8c4dbde000 ---p 00008000 ca:01 6168                       /usr/lib/x86_64-linux-gnu/libargon2.so.0
+7f8c4dbde000-7f8c4dbdf000 r--p 00007000 ca:01 6168                       /usr/lib/x86_64-linux-gnu/libargon2.so.0
+7f8c4dbdf000-7f8c4dbe0000 rw-p 00008000 ca:01 6168                       /usr/lib/x86_64-linux-gnu/libargon2.so.0
+7f8c4dbe0000-7f8c4dfdb000 r-xp 00000000 ca:01 261142                     /usr/lib/apache2/modules/libphp7.2.so
+7f8c4dfdb000-7f8c4e1db000 ---p 003fb000 ca:01 261142                     /usr/lib/apache2/modules/libphp7.2.so
+7f8c4e1db000-7f8c4e253000 r--p 003fb000 ca:01 261142                     /usr/lib/apache2/modules/libphp7.2.so
+7f8c4e253000-7f8c4e26a000 rw-p 00473000 ca:01 261142                     /usr/lib/apache2/modules/libphp7.2.so
+7f8c4e26a000-7f8c4e287000 rw-p 00000000 00:00 0 
+7f8c4e287000-7f8c4e28e000 r-xp 00000000 ca:01 279569                     /usr/lib/apache2/modules/mod_negotiation.so
+7f8c4e28e000-7f8c4e48e000 ---p 00007000 ca:01 279569                     /usr/lib/apache2/modules/mod_negotiation.so
+7f8c4e48e000-7f8c4e48f000 r--p 00007000 ca:01 279569                     /usr/lib/apache2/modules/mod_negotiation.so
+7f8c4e48f000-7f8c4e490000 rw-p 00008000 ca:01 279569                     /usr/lib/apache2/modules/mod_negotiation.so
+7f8c4e490000-7f8c4e497000 r-xp 00000000 ca:01 279567                     /usr/lib/apache2/modules/mod_mpm_prefork.so
+7f8c4e497000-7f8c4e696000 ---p 00007000 ca:01 279567                     /usr/lib/apache2/modules/mod_mpm_prefork.so
+7f8c4e696000-7f8c4e697000 r--p 00006000 ca:01 279567                     /usr/lib/apache2/modules/mod_mpm_prefork.so
+7f8c4e697000-7f8c4e698000 rw-p 00007000 ca:01 279567                     /usr/lib/apache2/modules/mod_mpm_prefork.so
+7f8c4e698000-7f8c4e69c000 r-xp 00000000 ca:01 279564                     /usr/lib/apache2/modules/mod_mime.so
+7f8c4e69c000-7f8c4e89c000 ---p 00004000 ca:01 279564                     /usr/lib/apache2/modules/mod_mime.so
+7f8c4e89c000-7f8c4e89d000 r--p 00004000 ca:01 279564                     /usr/lib/apache2/modules/mod_mime.so
+7f8c4e89d000-7f8c4e89e000 rw-p 00005000 ca:01 279564                     /usr/lib/apache2/modules/mod_mime.so
+7f8c4e89e000-7f8c4e8a2000 r-xp 00000000 ca:01 279546                     /usr/lib/apache2/modules/mod_filter.so
+7f8c4e8a2000-7f8c4eaa1000 ---p 00004000 ca:01 279546                     /usr/lib/apache2/modules/mod_filter.so
+7f8c4eaa1000-7f8c4eaa2000 r--p 00003000 ca:01 279546                     /usr/lib/apache2/modules/mod_filter.so
+7f8c4eaa2000-7f8c4eaa3000 rw-p 00004000 ca:01 279546                     /usr/lib/apache2/modules/mod_filter.so
+7f8c4eaa3000-7f8c4eaa5000 r-xp 00000000 ca:01 279542                     /usr/lib/apache2/modules/mod_env.so
+7f8c4eaa5000-7f8c4eca4000 ---p 00002000 ca:01 279542                     /usr/lib/apache2/modules/mod_env.so
+7f8c4eca4000-7f8c4eca5000 r--p 00001000 ca:01 279542                     /usr/lib/apache2/modules/mod_env.so
+7f8c4eca5000-7f8c4eca6000 rw-p 00002000 ca:01 279542                     /usr/lib/apache2/modules/mod_env.so
+7f8c4eca6000-7f8c4eca8000 r-xp 00000000 ca:01 279539                     /usr/lib/apache2/modules/mod_dir.so
+7f8c4eca8000-7f8c4eea7000 ---p 00002000 ca:01 279539                     /usr/lib/apache2/modules/mod_dir.so
+7f8c4eea7000-7f8c4eea8000 r--p 00001000 ca:01 279539                     /usr/lib/apache2/modules/mod_dir.so
+7f8c4eea8000-7f8c4eea9000 rw-p 00002000 ca:01 279539                     /usr/lib/apache2/modules/mod_dir.so
+7f8c4eea9000-7f8c4eec5000 r-xp 00000000 ca:01 6225                       /lib/x86_64-linux-gnu/libz.so.1.2.11
+7f8c4eec5000-7f8c4f0c4000 ---p 0001c000 ca:01 6225                       /lib/x86_64-linux-gnu/libz.so.1.2.11
+7f8c4f0c4000-7f8c4f0c5000 r--p 0001b000 ca:01 6225                       /lib/x86_64-linux-gnu/libz.so.1.2.11
+7f8c4f0c5000-7f8c4f0c6000 rw-p 0001c000 ca:01 6225                       /lib/x86_64-linux-gnu/libz.so.1.2.11
+7f8c4f0c6000-7f8c4f0cd000 r-xp 00000000 ca:01 279537                     /usr/lib/apache2/modules/mod_deflate.so
+7f8c4f0cd000-7f8c4f2cd000 ---p 00007000 ca:01 279537                     /usr/lib/apache2/modules/mod_deflate.so
+7f8c4f2cd000-7f8c4f2ce000 r--p 00007000 ca:01 279537                     /usr/lib/apache2/modules/mod_deflate.so
+7f8c4f2ce000-7f8c4f2cf000 rw-p 00008000 ca:01 279537                     /usr/lib/apache2/modules/mod_deflate.so
+7f8c4f2cf000-7f8c4f2d8000 r-xp 00000000 ca:01 279520                     /usr/lib/apache2/modules/mod_autoindex.so
+7f8c4f2d8000-7f8c4f4d7000 ---p 00009000 ca:01 279520                     /usr/lib/apache2/modules/mod_autoindex.so
+7f8c4f4d7000-7f8c4f4d8000 r--p 00008000 ca:01 279520                     /usr/lib/apache2/modules/mod_autoindex.so
+7f8c4f4d8000-7f8c4f4d9000 rw-p 00009000 ca:01 279520                     /usr/lib/apache2/modules/mod_autoindex.so
+7f8c4f4d9000-7f8c4f4da000 r-xp 00000000 ca:01 279519                     /usr/lib/apache2/modules/mod_authz_user.so
+7f8c4f4da000-7f8c4f6da000 ---p 00001000 ca:01 279519                     /usr/lib/apache2/modules/mod_authz_user.so
+7f8c4f6da000-7f8c4f6db000 r--p 00001000 ca:01 279519                     /usr/lib/apache2/modules/mod_authz_user.so
+7f8c4f6db000-7f8c4f6dc000 rw-p 00002000 ca:01 279519                     /usr/lib/apache2/modules/mod_authz_user.so
+7f8c4f6dc000-7f8c4f6de000 r-xp 00000000 ca:01 279517                     /usr/lib/apache2/modules/mod_authz_host.so
+7f8c4f6de000-7f8c4f8de000 ---p 00002000 ca:01 279517                     /usr/lib/apache2/modules/mod_authz_host.so
+7f8c4f8de000-7f8c4f8df000 r--p 00002000 ca:01 279517                     /usr/lib/apache2/modules/mod_authz_host.so
+7f8c4f8df000-7f8c4f8e0000 rw-p 00003000 ca:01 279517                     /usr/lib/apache2/modules/mod_authz_host.so
+7f8c4f8e0000-7f8c4f8e5000 r-xp 00000000 ca:01 279513                     /usr/lib/apache2/modules/mod_authz_core.so
+7f8c4f8e5000-7f8c4fae4000 ---p 00005000 ca:01 279513                     /usr/lib/apache2/modules/mod_authz_core.so
+7f8c4fae4000-7f8c4fae5000 r--p 00004000 ca:01 279513                     /usr/lib/apache2/modules/mod_authz_core.so
+7f8c4fae5000-7f8c4fae6000 rw-p 00005000 ca:01 279513                     /usr/lib/apache2/modules/mod_authz_core.so
+7f8c4fae6000-7f8c4fae8000 r-xp 00000000 ca:01 279509                     /usr/lib/apache2/modules/mod_authn_file.so
+7f8c4fae8000-7f8c4fce7000 ---p 00002000 ca:01 279509                     /usr/lib/apache2/modules/mod_authn_file.so
+7f8c4fce7000-7f8c4fce8000 r--p 00001000 ca:01 279509                     /usr/lib/apache2/modules/mod_authn_file.so
+7f8c4fce8000-7f8c4fce9000 rw-p 00002000 ca:01 279509                     /usr/lib/apache2/modules/mod_authn_file.so
+7f8c4fce9000-7f8c4fceb000 r-xp 00000000 ca:01 279506                     /usr/lib/apache2/modules/mod_authn_core.so
+7f8c4fceb000-7f8c4feea000 ---p 00002000 ca:01 279506                     /usr/lib/apache2/modules/mod_authn_core.so
+7f8c4feea000-7f8c4feeb000 r--p 00001000 ca:01 279506                     /usr/lib/apache2/modules/mod_authn_core.so
+7f8c4feeb000-7f8c4feec000 rw-p 00002000 ca:01 279506                     /usr/lib/apache2/modules/mod_authn_core.so
+7f8c4feec000-7f8c4feef000 r-xp 00000000 ca:01 279502                     /usr/lib/apache2/modules/mod_auth_basic.so
+7f8c4feef000-7f8c500ee000 ---p 00003000 ca:01 279502                     /usr/lib/apache2/modules/mod_auth_basic.so
+7f8c500ee000-7f8c500ef000 r--p 00002000 ca:01 279502                     /usr/lib/apache2/modules/mod_auth_basic.so
+7f8c500ef000-7f8c500f0000 rw-p 00003000 ca:01 279502                     /usr/lib/apache2/modules/mod_auth_basic.so
+7f8c500f0000-7f8c500f4000 r-xp 00000000 ca:01 279499                     /usr/lib/apache2/modules/mod_alias.so
+7f8c500f4000-7f8c502f3000 ---p 00004000 ca:01 279499                     /usr/lib/apache2/modules/mod_alias.so
+7f8c502f3000-7f8c502f4000 r--p 00003000 ca:01 279499                     /usr/lib/apache2/modules/mod_alias.so
+7f8c502f4000-7f8c502f5000 rw-p 00004000 ca:01 279499                     /usr/lib/apache2/modules/mod_alias.so
+7f8c502f5000-7f8c502f7000 r-xp 00000000 ca:01 279496                     /usr/lib/apache2/modules/mod_access_compat.so
+7f8c502f7000-7f8c504f6000 ---p 00002000 ca:01 279496                     /usr/lib/apache2/modules/mod_access_compat.so
+7f8c504f6000-7f8c504f7000 r--p 00001000 ca:01 279496                     /usr/lib/apache2/modules/mod_access_compat.so
+7f8c504f7000-7f8c504f8000 rw-p 00002000 ca:01 279496                     /usr/lib/apache2/modules/mod_access_compat.so
+7f8c504f8000-7f8c504fb000 r-xp 00000000 ca:01 21316                      /lib/x86_64-linux-gnu/libdl-2.27.so
+7f8c504fb000-7f8c506fa000 ---p 00003000 ca:01 21316                      /lib/x86_64-linux-gnu/libdl-2.27.so
+7f8c506fa000-7f8c506fb000 r--p 00002000 ca:01 21316                      /lib/x86_64-linux-gnu/libdl-2.27.so
+7f8c506fb000-7f8c506fc000 rw-p 00003000 ca:01 21316                      /lib/x86_64-linux-gnu/libdl-2.27.so
+7f8c506fc000-7f8c50702000 r-xp 00000000 ca:01 2108                       /lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7f8c50702000-7f8c50901000 ---p 00006000 ca:01 2108                       /lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7f8c50901000-7f8c50902000 r--p 00005000 ca:01 2108                       /lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7f8c50902000-7f8c50903000 rw-p 00006000 ca:01 2108                       /lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7f8c50903000-7f8c50932000 r-xp 00000000 ca:01 2274                       /lib/x86_64-linux-gnu/libexpat.so.1.6.7
+7f8c50932000-7f8c50b32000 ---p 0002f000 ca:01 2274                       /lib/x86_64-linux-gnu/libexpat.so.1.6.7
+7f8c50b32000-7f8c50b34000 r--p 0002f000 ca:01 2274                       /lib/x86_64-linux-gnu/libexpat.so.1.6.7
+7f8c50b34000-7f8c50b35000 rw-p 00031000 ca:01 2274                       /lib/x86_64-linux-gnu/libexpat.so.1.6.7
+7f8c50b35000-7f8c50b3e000 r-xp 00000000 ca:01 21296                      /lib/x86_64-linux-gnu/libcrypt-2.27.so
+7f8c50b3e000-7f8c50d3d000 ---p 00009000 ca:01 21296                      /lib/x86_64-linux-gnu/libcrypt-2.27.so
+7f8c50d3d000-7f8c50d3e000 r--p 00008000 ca:01 21296                      /lib/x86_64-linux-gnu/libcrypt-2.27.so
+7f8c50d3e000-7f8c50d3f000 rw-p 00009000 ca:01 21296                      /lib/x86_64-linux-gnu/libcrypt-2.27.so
+7f8c50d3f000-7f8c50d6d000 rw-p 00000000 00:00 0 
+7f8c50d6d000-7f8c50f54000 r-xp 00000000 ca:01 21260                      /lib/x86_64-linux-gnu/libc-2.27.so
+7f8c50f54000-7f8c51154000 ---p 001e7000 ca:01 21260                      /lib/x86_64-linux-gnu/libc-2.27.so
+7f8c51154000-7f8c51158000 r--p 001e7000 ca:01 21260                      /lib/x86_64-linux-gnu/libc-2.27.so
+7f8c51158000-7f8c5115a000 rw-p 001eb000 ca:01 21260                      /lib/x86_64-linux-gnu/libc-2.27.so
+7f8c5115a000-7f8c5115e000 rw-p 00000000 00:00 0 
+7f8c5115e000-7f8c51178000 r-xp 00000000 ca:01 30425                      /lib/x86_64-linux-gnu/libpthread-2.27.so
+7f8c51178000-7f8c51377000 ---p 0001a000 ca:01 30425                      /lib/x86_64-linux-gnu/libpthread-2.27.so
+7f8c51377000-7f8c51378000 r--p 00019000 ca:01 30425                      /lib/x86_64-linux-gnu/libpthread-2.27.so
+7f8c51378000-7f8c51379000 rw-p 0001a000 ca:01 30425                      /lib/x86_64-linux-gnu/libpthread-2.27.so
+7f8c51379000-7f8c5137d000 rw-p 00000000 00:00 0 
+7f8c5137d000-7f8c513b0000 r-xp 00000000 ca:01 11866                      /usr/lib/x86_64-linux-gnu/libapr-1.so.0.6.3
+7f8c513b0000-7f8c515b0000 ---p 00033000 ca:01 11866                      /usr/lib/x86_64-linux-gnu/libapr-1.so.0.6.3
+7f8c515b0000-7f8c515b1000 r--p 00033000 ca:01 11866                      /usr/lib/x86_64-linux-gnu/libapr-1.so.0.6.3
+7f8c515b1000-7f8c515b2000 rw-p 00034000 ca:01 11866                      /usr/lib/x86_64-linux-gnu/libapr-1.so.0.6.3
+7f8c515b2000-7f8c515dc000 r-xp 00000000 ca:01 5111                       /usr/lib/x86_64-linux-gnu/libaprutil-1.so.0.6.1
+7f8c515dc000-7f8c517db000 ---p 0002a000 ca:01 5111                       /usr/lib/x86_64-linux-gnu/libaprutil-1.so.0.6.1
+7f8c517db000-7f8c517dc000 r--p 00029000 ca:01 5111                       /usr/lib/x86_64-linux-gnu/libaprutil-1.so.0.6.1
+7f8c517dc000-7f8c517dd000 rw-p 0002a000 ca:01 5111                       /usr/lib/x86_64-linux-gnu/libaprutil-1.so.0.6.1
+7f8c517dd000-7f8c5184d000 r-xp 00000000 ca:01 14015                      /lib/x86_64-linux-gnu/libpcre.so.3.13.3
+7f8c5184d000-7f8c51a4c000 ---p 00070000 ca:01 14015                      /lib/x86_64-linux-gnu/libpcre.so.3.13.3
+7f8c51a4c000-7f8c51a4d000 r--p 0006f000 ca:01 14015                      /lib/x86_64-linux-gnu/libpcre.so.3.13.3
+7f8c51a4d000-7f8c51a4e000 rw-p 00070000 ca:01 14015                      /lib/x86_64-linux-gnu/libpcre.so.3.13.3
+7f8c51a4e000-7f8c51a77000 r-xp 00000000 ca:01 21185                      /lib/x86_64-linux-gnu/ld-2.27.so
+7f8c51a96000-7f8c51aaa000 rw-s 00000000 00:01 453038                     /dev/zero (deleted)
+7f8c51b17000-7f8c51b19000 rw-p 00000000 00:00 0 
+7f8c51b48000-7f8c51b58000 rw-p 00000000 00:00 0 
+7f8c51b58000-7f8c51b68000 rwxp 00000000 00:00 0 
+7f8c51b68000-7f8c51b93000 rw-p 00000000 00:00 0 
+7f8c51b93000-7f8c51b9c000 rw-p 00000000 00:00 0 
+7f8c51b9c000-7f8c51c73000 rw-p 00000000 00:00 0 
+7f8c51c73000-7f8c51c77000 rw-p 00000000 00:00 0 
+7f8c51c77000-7f8c51c78000 r--p 00029000 ca:01 21185                      /lib/x86_64-linux-gnu/ld-2.27.so
+7f8c51c78000-7f8c51c79000 rw-p 0002a000 ca:01 21185                      /lib/x86_64-linux-gnu/ld-2.27.so
+7f8c51c79000-7f8c51c7a000 rw-p 00000000 00:00 0 
+7fff4e4de000-7fff4e4ff000 rw-p 00000000 00:00 0                          [stack]
+7fff4e5ea000-7fff4e5ed000 r--p 00000000 00:00 0                          [vvar]
+7fff4e5ed000-7fff4e5ef000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
